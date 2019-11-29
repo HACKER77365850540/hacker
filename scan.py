@@ -1,4 +1,4 @@
-#Jangan ganti author , hargai creator cape loh buat nya
+#Bilal Rahman author , hargai creator cape loh buat nya
 
 import LIST
 from LIST.id import *
